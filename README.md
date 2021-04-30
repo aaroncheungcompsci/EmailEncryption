@@ -23,3 +23,5 @@ RSA Encryption <br/>
 ### Purpose of project:
 This application simply demonstrates how an email may be encrypted and decrypted as it is sent from one address to another using asymmetric encryption.
 It may not be accurate to how emails are normally encrypted, but this was what I was able to envision for the final project of IFT 520 at Arizona State University.
+The private key in the repository is meant to demonstrate what an RSA private key may look like. For the purposes of this application, it is mainly used to decrypt
+data that is stored in the local database.
