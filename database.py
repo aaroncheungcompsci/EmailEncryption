@@ -64,7 +64,7 @@ def get_number_of_rows(cur):
 # initialize_table()
 # drop_table()
 # insert_element("test@gmail.com", "secondtest@gmail.com", "test subject", b"test message")
-display_elements(c, conn)
+# display_elements(c, conn)
 # c.execute("SELECT COUNT() from messages")
 # extract = c.fetchall()
 # number = [row[0] for row in extract]
